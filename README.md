@@ -1,2 +1,2 @@
-- Projeto simples com puro HTML
+Projeto simples, apenas com HTML
 
